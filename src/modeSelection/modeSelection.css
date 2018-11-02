@@ -1,0 +1,14 @@
+.mode {
+    text-align: center;
+    margin-top: 10px;
+}
+.mode__text {
+    font-size: 20px;
+    color: #777674;
+}
+.mode__buttons {
+    margin-top: 10px;
+}
+.mode__buttons-item:first-child {
+    margin-right: 10px;
+}

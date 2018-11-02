@@ -1,0 +1,28 @@
+.player__block {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid transparent;
+    margin-top: 10px;
+    line-height: 100px;
+    color: #777674;
+    font-size: 18px;
+}
+.player__block_current {
+    border: 5px solid green;
+}
+.player__block_1 {
+    background: #fff880;
+}
+.player__block_2 {
+    background: #ff8754;
+}
+.player__name {
+    color: #777674;
+    font-size: 20px;
+}
+.player__result {
+    color: #777674;
+    font-size: 20px;
+    margin-top: 10px;
+}

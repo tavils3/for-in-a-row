@@ -1,0 +1,7 @@
+.table {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px auto;
+    width: 600px;
+    background: #165ec7;
+}
